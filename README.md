@@ -1,2 +1,2 @@
 # tyss
-Tiny storage service
+Tiny storage REST service
